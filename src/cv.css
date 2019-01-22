@@ -1,0 +1,22 @@
+body{
+
+}
+
+h1{
+    text-align: center;
+
+}
+
+#luffy{
+    float: right;
+    margin-right: 200px;
+
+}
+img{
+    height: 400px;
+    width: auto;
+}
+
+h3{
+    margin-left: 200px;
+}
